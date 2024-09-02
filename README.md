@@ -1,4 +1,4 @@
-Audio Recording and Transcription Project
+<h1 align="left">Audio Recording and Transcription Project </h1>
 This project aims to record audio, split the audio files into specific segments, and transcribe these segments using Google Speech-to-Text API. The project is developed using Python and several popular libraries.
 
 Requirements
@@ -11,16 +11,18 @@ pydub: Processes audio files.
 speech_recognition: Transcribes audio files.
 datetime: Retrieves date and time information.
 Installation
-Step 1: Install Python and pip
+<h2 align="left">Step 1: </h2>
+Install Python and pip
 Ensure Python is installed on your computer. You can download the latest version of Python and pip from the official Python website.
 
-Step 2: Install Libraries
+<h2 align="left">Step 2:Install Libraries </h2>
 Use the following commands to install the required Python libraries:
 
 bash
 Copy code
 pip install pyaudio wave keyboard pydub SpeechRecognition
-Step 3: Install FFmpeg
+<h2 align="left">Step 3: Install FFmpeg </h2>
+
 The pydub library requires FFmpeg or avconv for audio processing. You can download and install FFmpeg from the official FFmpeg website. After installation, make sure FFmpeg is available in your system PATH by running the ffmpeg command in your terminal or command prompt.
 
 Usage
