@@ -50,4 +50,5 @@ This project is open to individual or collective contributions. If you wish to c
 
 License
 This project is licensed under the MIT License.
+[] I will add bigger than dataset for my project
 
